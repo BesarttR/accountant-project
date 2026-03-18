@@ -1,0 +1,134 @@
+{
+  "nav": {
+    "about": "Ekibimiz",
+    "advisors": "Danışmanlar",
+    "services": "Hizmetler",
+    "testimonials": "Müşteriler",
+    "contact": "İletişim",
+    "cta": "Bize Ulaşın",
+    "logoSmall": "Sertifikalı Muhasebeciler · Üsküp"
+  },
+  "hero": {
+    "tag": "Sertifikalı Muhasebe Firması · Üsküp, Kuzey Makedonya",
+    "h1Line1": "İşletmenizin büyümesi için",
+    "h1Line2": "uzman finansal",
+    "h1Em": "rehberlik.",
+    "p": "40+ yıllık deneyimi bir araya getiren profesyonel bir muhasebe ortaklığı. Hassasiyet, uyumluluk ve stratejik anlayış için Makedonya genelinde 30'dan fazla şirket tarafından güvenilmektedir.",
+    "cta": "Danışma Randevusu Al",
+    "ctaSecondary": "Hizmetlerimiz →",
+    "stat1Num": "30",
+    "stat1Sup": "+",
+    "stat1Label": "Aktif Müşteri",
+    "stat2Num": "40",
+    "stat2Sup": "+",
+    "stat2Label": "Toplam Yıl Deneyim",
+    "stat3Num": "100",
+    "stat3Sup": "%",
+    "stat3Label": "Uyumluluk Oranı",
+    "partner1Name": "Nuran Ramadani",
+    "partner1Role": "Ortak · Sertifikalı Muhasebeci",
+    "partner1Exp": "7 Yıl Deneyim",
+    "partner2Name": "Hajra Demirovic",
+    "partner2Role": "Ortak · Kıdemli Muhasebeci",
+    "partner2Exp": "40+ Yıl Deneyim"
+  },
+  "about": {
+    "tag": "Firmamız",
+    "h2Line1": "Üzerine kurulu bir ortaklık",
+    "h2Em": "uzmanlık ve güven.",
+    "p1": "Adea Consulting, iki neslin uzmanlığını bir araya getiren Üsküp merkezli bir muhasebe firmasıdır. Makedonya pazarına özel kapsamlı muhasebe, vergi ve danışmanlık hizmetleri sunarak <strong>30'dan fazla şirkete</strong> — startuplardan köklü işletmelere — hizmet veriyoruz.",
+    "p2": "Yaklaşımımız hem titiz hem de kişiseldir. Her müşteri, tam yasal uyumlulukla birlikte gelen gönül rahatlığı, stratejik rehberlik ve özel ilgi alır.",
+    "stat1Num": "30+",
+    "stat1Label": "Hizmet Verilen Şirket",
+    "stat2Num": "40+",
+    "stat2Label": "Toplam Deneyim",
+    "stat3Num": "2",
+    "stat3Label": "Sertifikalı Ortak",
+    "stat4Num": "100%",
+    "stat4Label": "Uyumluluk Oranı",
+    "nuranTitle": "Ortak & Sertifikalı Muhasebeci",
+    "nuranExp": "7 Yıl Deneyim",
+    "nuranBio": "Nuran, Kuzey Makedonya'daki KOBİ'ler için defter tutma, bordro yönetimi ve vergi uyumluluğu konusunda uzmanlaşmıştır. Modern, teknoloji odaklı yaklaşımı, müşterilerin verimli süreçlerden ve güncel mevzuat bilgisinden yararlanmasını sağlar. Firmanın büyüyen müşteri portföyündeki günlük finansal operasyonlar için birincil iletişim noktası olarak görev yapmaktadır.",
+    "hajraTitle": "Ortak & Kıdemli Muhasebeci",
+    "hajraExp": "40+ Yıl Deneyim",
+    "hajraBio": "Hajra, firmaya kırk yılı aşkın derin finansal uzmanlık getirmektedir. Kapsamlı geçmişi; karmaşık vergi planlaması, finansal yeniden yapılanma ve uzun vadeli stratejik danışmanlığı kapsamaktadır. Makedonya finans hukukuna olan eşsiz hakimiyeti, her müşteriye finansal kararlarında tam güven veren üst düzey denetimi sağlar."
+  },
+  "advisors": {
+    "tag": "Profesyonel Danışmanlar",
+    "h2Line1": "Bir ağ tarafından desteklenen",
+    "h2Em": "uzman profesyoneller.",
+    "sub": "Müşterilerimiz, iş, hukuk ve finansal karmaşıklığın her boyutunu kapsayan özenle oluşturulmuş bir profesyonel danışman paneline erişim imkânından yararlanır.",
+    "cards": [
+      { "field": "Hukuki Danışmanlık", "desc": "Makedonya hukuku kapsamında şirketler hukuku, sözleşme uyuşmazlıkları, düzenleyici uyumluluk ve iş yapılanması konularında uzman hukuki danışmanlık." },
+      { "field": "Vergi Hukuku Uzmanları", "desc": "KDV, kurumlar vergisi, sınır ötesi işlemler ve Kamu Gelirler İdaresi ile vergi uyuşmazlıklarının çözümü konularında uzman rehberlik." },
+      { "field": "Finansal Planlama", "desc": "Sürdürülebilir büyüme için stratejik finansal planlama, yatırım danışmanlığı, nakit akışı optimizasyonu ve uzun vadeli finansal modelleme." },
+      { "field": "Denetim & Güvence", "desc": "Mali tabloların şirket performansını doğru yansıttığını sağlayan bağımsız denetim hizmetleri ve iç kontrol incelemeleri." },
+      { "field": "İş Danışmanlığı", "desc": "Her büyüme aşamasındaki şirketler için operasyonel verimlilik, pazar giriş stratejisi, yeniden yapılanma ve performans iyileştirme." },
+      { "field": "Şirket Kuruluşu", "desc": "Yeni işletme tescili, yönetim kurulumu ve uyumluluk altyapısı için ilk günden kapsamlı rehberlik." }
+    ]
+  },
+  "services": {
+    "tag": "Ne Sunuyoruz",
+    "h2Line1": "İşletmenize özel",
+    "h2Em": "hizmetler.",
+    "sub": "Kuzey Makedonya'daki şirketler için günlük defter tutmadan uzun vadeli finansal stratejiye kadar kapsamlı muhasebe ve danışmanlık çözümleri.",
+    "cards": [
+      { "num": "01", "title": "Defter Tutma & Finansal Kayıtlar", "desc": "Makedonya standartlarına tam uyum içinde tüm finansal kayıtların — borçlar/alacaklar, banka mutabakatı ve aylık raporlama — doğru ve zamanında tutulması." },
+      { "num": "02", "title": "Vergi Planlaması & Uyumu", "desc": "Yükümlülükleri en aza indirirken tam uyumu sağlamak için stratejik vergi planlaması. Kamu Gelirler İdaresi'ne tüm gerekli vergi beyannamelerinin hazırlanması ve sunulması." },
+      { "num": "03", "title": "Bordro Yönetimi", "desc": "Tam bordro işleme, çalışan katkı hesaplamaları ve yetkililere zamanında raporlama — böylece insanlara odaklanabilirsiniz, evrak işlerine değil." },
+      { "num": "04", "title": "Finansal Raporlama & Analiz", "desc": "Güvenli iş kararları almak için gerekli içgörüyü sağlayan net, uygulanabilir mali tablolar — bilançolar, kâr & zarar, nakit akışı." },
+      { "num": "05", "title": "Şirket Tescili & Startup", "desc": "Makedonya'da işletme tescili sürecinde kapsamlı rehberlik — hukuki yapı tavsiyesi, başlangıç muhasebe kurulumu ve ilk günden itibaren uyumluluk yol haritası." },
+      { "num": "06", "title": "İş & Finansal Danışmanlık", "desc": "Standart muhasebenin ötesinde güvenilir bir ortak olarak stratejik finansal planlama, maliyet kontrolü, yatırım kararları ve büyüme danışmanlığı." }
+    ]
+  },
+  "testimonials": {
+    "tag": "Müşteri Sesleri",
+    "h2Line1": "Müşterilerimiz",
+    "h2Em": "biz hakkında ne diyor.",
+    "items": [
+      { "text": "Nuran ve Hajra işimiz için vazgeçilmez oldu. Birleşik uzmanlıkları, her zaman hem güncel bilgiye hem de derin stratejik içgörüye sahip olmamız anlamına geliyor.", "name": "Marko Kostovski", "company": "CEO · TechVenture Üsküp", "initials": "MK" },
+      { "text": "Şirket tescilinden günlük defter tutmaya kadar — ekip her şeyi profesyonellikle halletti. Beş yıl sonra hâlâ finanslarımızı başka kimseye emanet etmezdim.", "name": "Sara Vasileva", "company": "Sahibi · Boutique Collective", "initials": "SV" },
+      { "text": "Hajra'nın deneyimi dikkat çekici — önceki muhasebecimizin tamamen kaçırdığı vergi optimizasyon stratejilerini belirledi. Tasarruflar önemli ölçüde oldu.", "name": "Bojan Nikoloski", "company": "Direktör · NordBuild DOOEL", "initials": "BN" }
+    ]
+  },
+  "contact": {
+    "tag": "Bize Ulaşın",
+    "h2Line1": "Finansal ihtiyaçlarınızı",
+    "h2Em": "konuşalım.",
+    "p": "İşletmenizi gerçekten anlayan bir firma ile çalışmaya hazır mısınız? Ücretsiz ilk danışma için ulaşın — hedefleriniz hakkında bilgi almak isteriz.",
+    "locationLabel": "Konum",
+    "locationVal": "Üsküp, Kuzey Makedonya",
+    "emailLabel": "E-posta",
+    "phoneLabel": "Telefon",
+    "firstName": "Ad",
+    "firstNamePh": "Adınız",
+    "lastName": "Soyad",
+    "lastNamePh": "Soyadınız",
+    "emailPh": "siz@sirket.mk",
+    "companyLabel": "Şirket Adı",
+    "companyPh": "Şirketiniz DOOEL",
+    "serviceLabel": "İlgilendiğiniz Hizmet",
+    "serviceDefault": "Bir hizmet seçin...",
+    "serviceOptions": [
+      "Defter Tutma & Finansal Kayıtlar",
+      "Vergi Planlaması & Uyumu",
+      "Bordro Yönetimi",
+      "Finansal Raporlama & Analiz",
+      "Şirket Tescili & Startup",
+      "İş & Finansal Danışmanlık",
+      "Profesyonel Danışmanlık Hizmetleri"
+    ],
+    "messageLabel": "Mesaj",
+    "messagePh": "İşletmeniz ve yardıma ihtiyaç duyduğunuz konular hakkında kısaca bilgi verin...",
+    "submit": "Mesaj Gönder →",
+    "submitted": "Mesaj Gönderildi ✓"
+  },
+  "footer": {
+    "logoSmall": "Sertifikalı Muhasebeciler · Üsküp, Kuzey Makedonya",
+    "copy": "© 2025 Adea Consulting. Tüm hakları saklıdır.",
+    "team": "Ekip",
+    "advisors": "Danışmanlar",
+    "services": "Hizmetler",
+    "contact": "İletişim"
+  }
+}
